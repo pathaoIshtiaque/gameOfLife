@@ -1,4 +1,8 @@
 # TO Start
+working directory:
+`/Users/user/Ishtiaque/app`
+
+command:
 `docker-compose up --build`
 # URLS
 `POST http://localhost:8000/api/grids/`
